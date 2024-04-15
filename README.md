@@ -69,7 +69,7 @@ PostgresSQL 9.5 or above
 psycopg2 - PostgreSQL database adapter for Python
 
 
-## How to run
+## How to run ETL Pipeline
 
 Run the drive program ```main.py``` as below.
 ```
@@ -82,11 +82,4 @@ python create_tables.py
 python etl.py 
 ```
 
-
- #### Reference: 
-[Psycopg](http://initd.org/psycopg/docs/)
-
-[PostgreSQL Documentation](https://www.postgresql.org/docs/)
-
-[Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 
